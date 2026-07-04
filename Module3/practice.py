@@ -18,7 +18,6 @@ while True:
         print("請輸入更小的數字")
     else:
         print("請輸入更大的數字")
-        
     
 
 
